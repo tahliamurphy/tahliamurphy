@@ -10,8 +10,9 @@
 ### Code.org GameLab
 [RobotFace]( https://tahliamurphy.github.io/Robot/)
 >I used 4 different shapes, sizes, and colors to create a robot face that can change colors 
-### CaptionScene
+### Code.org Scene
 [ChristmasScene](https://studio.code.org/projects/gamelab/SrEECsy168MHkuKZjo2IrUDnHRigl40-JI9niJ2Os5g)
  >I used random numbers, shapes, sprites, and different variables to create a Christmas scene with penguins, trees, gingerbread men, and snowmen
-### CaptionScene
+### Code.org Card
 [InteractiveCard](https://studio.code.org/projects/gamelab/Vo0KUX6q_fi51u6RBtnpXRGNUtospT9MC54LAFhna8U)
+>Me and my partner made an interactive happy birthday card. We used conditionals, random numbers, and all different kinds of sprites. We also have the code key down so that when you press the space button, the arrows, and the H key different parts of our card move. We also used different pieces of code to make the actual happy birthday sign get bigger. During this project, we learned how to combine different code to make a product.
