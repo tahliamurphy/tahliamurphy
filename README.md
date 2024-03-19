@@ -22,3 +22,9 @@
 ### MIT App Inventor
 [City Sounds](https://gallery.appinventor.mit.edu/?galleryid=16efdc58-2847-4eaf-9a8a-a73b35134189)
 This is a game where you can play 4 different types of sounds with 4 different buttons and then stop them with 4 more buttons. These sounds can then be recorded and played back.
+
+
+[CMU Creative Task #1](https://academy.cs.cmu.edu/sharing/orangeSquirrel2478)
+>This is a scene shwoing a beach day using differet shapes, opacities and colors.
+[CMU Creative Task #2](https://academy.cs.cmu.edu/sharing/antiqueWhiteEagle3373)
+>This is a scene where a sailboat rides on the water whereas the sky changes based on clicking the mouse. This also uses mouse functions that we learned during the unit.
