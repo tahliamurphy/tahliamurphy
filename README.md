@@ -26,8 +26,14 @@ This is a game where you can play 4 different types of sounds with 4 different b
 
 [MyPiano](  https://gallery.appinventor.mit.edu/?galleryid=edcd5610-73df-41f8-8504-7f8dd085bc06)
 >This game allows me to click on the keys of a colored piano to make different sounds
+
+
 [MusicMaker](  https://gallery.appinventor.mit.edu/?galleryid=da15fc49-36af-47cc-859d-2348d05ce96e)
 >This is a game where you can click on different images that provide sounds that correlate to the picture
+
+
+[FindTheGold](  https://gallery.appinventor.mit.edu/?galleryid=e1511dee-4081-4b72-b758-642af2859ea3)
+>This is a game where you tilt the screen in order to ge the gold
 ### CMU
 [CMU Creative Task #1](https://academy.cs.cmu.edu/sharing/orangeSquirrel2478)
 >This is a scene shwoing a beach day using differet shapes, opacities and colors.
