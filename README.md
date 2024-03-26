@@ -39,3 +39,7 @@ This is a game where you can play 4 different types of sounds with 4 different b
 >This is a scene shwoing a beach day using differet shapes, opacities and colors.
 [CMU Creative Task #2](https://academy.cs.cmu.edu/sharing/antiqueWhiteEagle3373)
 >This is a scene where a sailboat rides on the water whereas the sky changes based on clicking the mouse. This also uses mouse functions that we learned during the unit.
+
+
+[CMU Creative Task #3](https://academy.cs.cmu.edu/sharing/blanchedAlmondDog9620)
+>This is a creative task where we altered the sun so that the opacity decreases the more you click, and if you click flowers also appear in a vase
