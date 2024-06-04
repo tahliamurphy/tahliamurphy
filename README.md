@@ -49,5 +49,13 @@ This is a game where you can play 4 different types of sounds with 4 different b
 [CMU Creative Task](https://academy.cs.cmu.edu/sharing/papayaWhipBird8638)
 >This project uses different keys to move a lion around the screen, and as the lion is moved in those different part its opacity changes from dark pink t light pink.
 
+
+
+
 [CMU Creative Task](https://academy.cs.cmu.edu/sharing/cornSilkSnail32340
 > This project shows birds moving owards the sun in a city landscape, and as they get closer to the sun, the opacity goes down
+
+
+
+[CMU Creative Task](https://academy.cs.cmu.edu/sharing/ivoryCheetah74030
+> This project shows a house that is getting rained on, the rain never stops and it comes from th clouds in the sky
