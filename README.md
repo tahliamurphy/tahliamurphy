@@ -16,6 +16,11 @@
 ### Code.org Card
 [InteractiveCard](https://studio.code.org/projects/gamelab/Vo0KUX6q_fi51u6RBtnpXRGNUtospT9MC54LAFhna8U)
 >Me and my partner made an interactive happy birthday card. We used conditionals, random numbers, and all different kinds of sprites. We also have the code key down so that when you press the space button, the arrows, and the H key different parts of our card move. We also used different pieces of code to make the actual happy birthday sign get bigger. During this project, we learned how to combine different code to make a product.
+### Code.org Flyer Game
+[FlyerGame](https://studio.code.org/projects/gamelab/aZghPkpIay0TdICeS4BrRlH0bkFplv83uDNrcx3u-yY)
+>Me and my partner made a game where the rhino is moved by the bad things and eats the good things
+
+
 ### MIT App Inventor
 [Hello Its Me](https://gallery.appinventor.mit.edu/?galleryid=16efdc58-2847-4eaf-9a8a-a73b35134189)
 >This is my first projet. I used buttons with pictures of animals on, and when clicked the make sounds.
